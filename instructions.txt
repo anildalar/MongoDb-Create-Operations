@@ -1,0 +1,24 @@
+JSON Object = Document
+{
+	P:V
+	Key:Value,
+	name:"Anil"
+}
+{
+	P:V
+	Key:Value,
+	name:"Anjali"
+}
+
+{
+	P:V
+	Key:Value,
+	name:"Payal"
+}
+
+CRUD = 
+C = Create
+
+R = Read
+U = Update
+D = Delete
